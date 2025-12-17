@@ -1,0 +1,200 @@
+
+<html>
+
+<head>
+    <meta name="viewport" content="with=device-width, initial scale=1.0">
+    <title>Raíces tejen flores Tienda Online</title>
+    <link rel="stylesheet" href="css proyecto-computacion 1.css">
+   
+</head>
+
+
+<body>
+<section class="header-fijo">
+    <h1>Raíces tejen flores</h1>
+
+    <div class="hamburger-menu">
+            <input id="menu__toggle" type="checkbox" />
+                <label class="menu__btn" for="menu__toggle">
+                    <span></span>
+        </label>
+
+            <ul class="menu__box">
+                <li><a class="menu__item" href="#">Productos en stock ¡Listos para la entrega!</a></li>
+                <li><a class="menu__item" href="#">¿Querés regalar algo, pero no sabés qué? ¡Te doy ideas!</a></li>
+                <li><a class="menu__item" href="#">Cómo cuidar y lavar productos tejidos</a></li>
+            </ul>
+    </div>
+</section>
+
+<section class="header">
+        <nav>
+            <a href="WEB Proyecto Computacion.html"><img src="c:\Users\msolf\Downloads\foto de perfil hello kitty ig.jpg"></a>
+            <div>
+                <ul>
+                    <li><a href="">INICIO</a></li>
+                    <li><a href="">BLOG</a></li>
+                    <li><a href="">QUIÉN SOY</a></li>
+                    <li><a href="">CONTACTO</a></li>
+                </ul>
+            </div>
+        </nav>
+        
+</section>    
+    
+<section class="inicio">
+        <div class="text-box">
+            <div class="container">
+            <h2>Lo que buscás, hecho con el mejor de los cuidados</h2>
+            <h4>Un tejido es un recuerdo, pero esta vez, en físico.</h4>
+            </div>
+            <div class="container1">
+                <div class="categorias">
+                <h3>Encotrarás en stock y podés encargar personalizados de...</h3>
+                </div>
+                <div class="container2">
+                        <div class="columna">
+                            <a href=""><img src="c:\Users\msolf\Downloads\IMG_6069.png" width= "150px" height="150px"></a>
+                            <h3>Amigurumis</h3>
+                            <p>Un nuevo integrante para tu entorno o el de alguien más</p>
+                        </div>
+
+                        <div class="columna">
+                            <a href=""><img src="c:\Users\msolf\Downloads\IMG_3145.PNG" width= "150px" height="150px"></a>
+                            <h3>Llaveros</h3>
+                            <p>O como colgantes, para llevarlos a todas partes</p>
+                        </div>
+                            
+                        <div class="columna">
+                            <a href=""><img src="c:\Users\msolf\Downloads\IMG_9126.JPEG" alt="Description" width= "150px" height="150px"></a>
+                            <h3>Flores</h3>
+                            <p>Con colores y motivos vivos</p>
+                        </div>
+                            
+                        <div class="columna">
+                            <a href=""><img src="https://via.placeholder.com/150" alt="Description" width= "150px" height="150px"></a>
+                            <h3>Para el hogar</h3>
+                            <p>Para darle un toquecito más de vida</p>
+                        </div>
+                </div>
+            </div>
+            
+            <div class="contactolinks">
+            <nav>
+                <div>
+                    <ul>
+                        <li><a href=""><h3>Podés ver lo más reciente en mis redes</h3></a></li>
+                        <h3>Podés contactarme por Whatsapp :)</h3>
+                        <li><a href="https://wa.me/4461336">+54 9 387 446-1336</a></li>
+                    </ul>
+                </div>
+            </nav>
+            </div>  
+        </div>
+</section>
+
+<section class="blog">
+        <h1>Blog</h1>
+        <h2>A tener en cuenta</h2>
+
+        <div class="cajablog">
+            <input type="checkbox" id="toggle1" class="toggle">
+              <label for="toggle1" class="boton">
+                    <h3>Disponibilidad para personalizados</h3>
+                    <span class="flecha">▼</span>
+              </label>
+                    <div class="contenido">
+                        <div class="context">
+                            <p>Puedes encargar lo que quieras, desde una recreación de una mascota, personajes de series, películas o videojuegos, objetos, formas, letras, lo que necesites.
+                            </p>
+                            <p class="sangria">No importa si se sale de lo común, estoy abierta a cualquier pedido. Sos bienvenid@ y siempre voy a contestar tu mensaje lo más pronto que pueda. No importa si es muy temprano o si es muy tarde, que quede escrito para que no te olvides luego. 
+                            </p>
+                            <p class="sangria">Trabajo con hilos de algodón, hay una gran variedad de colores y siempre voy a priorizar este material por ser de un grosor más regular, lo que permite un acabado más prolijo, pero si tu pedido tiene colores que no pueden lograrse en hilo de algodón, podría utilizar la lana Cisne Super Bebé, el valor de esta lana es un poco mayor, pero los colores que ofrece son más vibrantes si eso es lo que buscas. 
+                            </p>
+                            <p class="sangria">Lo más probable es que en hilo de algodón (el que usualmente se usa en amigurumis pequeños con detalles o mantas o decoración plana) tenga los colores disponibles, o al menos existentes, caso contrario a la lana Chenille, que se usa para amigurumis más grandes, esta lana es mucho más suavecita, como de peluche, es mucho más delicada, más valiosa y con colores limitados, pero con resultados súper adorables y cómodos al tacto.
+                            </p>
+                            <p class="sangria">Los colores más comunes para amigurumis en chenille son: blanco puro, blanco hueso o cremita, blanco ceniza, rosa claro, fucsia, verde opaco, naranja apagado, amarillo mostaza, morado muy oscuro, marrón oscuro y marrón claro. Algunos colores son muy complicados de conseguir en chenille, pueden tardar hasta un mes en llegar. Si es otro color distinto a los que nombré como más comunes, preguntame por su disponibilidad, probablemente hay más variedad.
+                            </p>
+                            <p class="sangria">Los tiempos de realización dependen del tamaño y los detalles que tenga el pedido, en promedio unos 10 días hábiles para un amigurmi mediano con detalles simples, por ejemplo. Puede llevar menos tiempo, más tiempo dependiendo de eso. Si lo necesitás para AYER, hay un mínimo de lo mínimo que podría ser dos o tres días con el doble del valor. sino también te podés fijar en los proyectos que ya tengo en stock <a href="">aquí</a>. Si necesitás acelerar el tiempo de entrega, hablame de en cuántos días lo necesitás y acordamos el valor agregado.
+                            </p>
+                        </div>
+                    </div>
+        </div>
+        <div class="cajablog">
+            <input type="checkbox" id="toggle2" class="toggle">
+              <label for="toggle2" class="boton">
+                    <h3>Entregas: Lugares y horarios a tu comodidad</h3>
+                    <span class="flecha">▼</span>
+              </label>
+                    <div class="contenido">
+                        <div class="context">
+                            <p>Puedes elegir los lugares y horarios que más accesibles sean para vos, yo voy hasta ahí. Puedes acordar o cambiar el lugar hasta treinta minutos antes de la entrega. 
+                            </p>
+                            <p>Todos los días de 17:00 a 17:30</p>
+                                <p class="sangria">- Plaza Güemes</p>
+                            <p>Todos los dias de 18:00 a 20:00 </p>
+                                <p class="sangria">- Plaza 9 de Julio</p>
+                                <p class="sangria">- Usina Cultural</p>
+                                <p class="sangria">- Ex Palúdica</p>
+                                <p class="sangria">- Plaza Belgrano</p>
+                            <p></p>
+                           
+                        </div>
+                        
+                    </div>
+        </div>
+        <div class="cajablog">
+            <input type="checkbox" id="toggle3" class="toggle">
+              <label for="toggle3" class="boton">
+                <h3>Materiales hipoalergénicos</h3>
+                <span class="flecha">▼</span>
+              </label>
+                <div class="contenido">
+                    <p>Texto desplegable de la caja 3.</p>
+                </div>
+        </div>
+        <div class="cajablog">
+            <input type="checkbox" id="toggle4" class="toggle">
+              <label for="toggle4" class="boton">
+                <h3>Materiales para bebés</h3>
+                <span class="flecha">▼</span>
+              </label>
+                <div class="contenido">
+                    <p>Texto desplegable de la caja 4.</p>
+                </div>
+        </div>
+        <div class="cajablog">
+        <input type="checkbox" id="toggle5" class="toggle">
+          <label for="toggle5" class="boton">
+            <h3>Cómo lavar productos tejidos</h3>
+            <span class="flecha">▼</span>
+          </label>
+                <div class="contenido">
+                    <p>Texto desplegable de la caja 5.</p>
+                </div>
+        </div>
+</section>
+
+<section class="yo">
+    <div class="yot">
+        <h2>Sobre mí</h2>
+    </div>
+    <div class="yoc">
+        <p>info sobre mi</p>
+    </div>
+</section>
+
+<section class="masredes">
+    <h2>Puedes ver más de mi trabajo aquí</h2>
+    <div class="mrcaja">
+        <a href="" target="_blank" class="ig">Instagram @m__florr</a>
+        <a href="" target="_blank" class="fb">Facebook</a>
+        <a href="" target="_blank" class="tt">TikTok</a>
+        <a href="" target="_blank" class="yt">Youtube</a>
+        <a href="" target="_blank" class="wp">Whatsapp</a>
+    </div>  
+</section>
+
+</body>
+
+</html>
